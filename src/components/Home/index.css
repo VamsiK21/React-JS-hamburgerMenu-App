@@ -1,0 +1,12 @@
+/* Write your CSS here */
+
+.home-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 90vh;
+}
+
+.home-img {
+  width: 600px;
+}
